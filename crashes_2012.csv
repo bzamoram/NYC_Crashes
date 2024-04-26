@@ -1,0 +1,5 @@
+"","CRASH.DATE","CRASH.TIME","LATITUDE","LONGITUDE","NUMBER.OF.PERSONS.INJURED","NUMBER.OF.PERSONS.KILLED","CONTRIBUTING.FACTOR.VEHICLE.1","VEHICLE.TYPE.CODE.1","year"
+"1","9/25/2012","12:36",40.700005,-73.90296,0,0,"Prescription Medication","Station Wagon/Sport Utility Vehicle","2012"
+"2","7/27/2012","20:53",40.676937,-73.92183,0,0,"Failure to Yield Right-of-Way","Station Wagon/Sport Utility Vehicle","2012"
+"3","8/1/2012","10:22",40.67452,-73.878044,1,0,"Unspecified","Station Wagon/Sport Utility Vehicle","2012"
+"4","10/22/2012","17:18",40.6666992,-73.8117267,0,0,"Unsafe Speed","Sedan","2012"
